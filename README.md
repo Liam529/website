@@ -185,3 +185,4 @@ gsutil cors set versioncheck.linkerd.io.cors.json gs://versioncheck.linkerd.io
 
 [emojivoto]: https://github.com/BuoyantIO/emojivoto
 [slate-linkerd]: https://github.com/BuoyantIO/slate-linkerd/blob/master/BUOYANT-README.md
+Verification
